@@ -1,0 +1,10 @@
+# Local demo account data and session secrets
+data/accounts.json
+data/accounts.json.tmp
+
+# Runtime logs and dependencies
+server.*.log
+*.log
+node_modules/
+.DS_Store
+Thumbs.db
