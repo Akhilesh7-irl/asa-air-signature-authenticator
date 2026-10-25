@@ -45,3 +45,4 @@ The sketch samples the MPU6050 at 100 Hz and sends timestamped accelerometer (ax
 If the browser shows no sensor, check wiring and I2C address. For a course demonstration, the simulation is available without the ESP32.
 
 See docs/FIRMWARE_TRACK.md, docs/DASHBOARD_TRACK.md, docs/state_diagrams.md, docs/metrics_table.md, and docs/demonstration.md.
+# asa-air-signature-authenticator
